@@ -1,0 +1,5 @@
+Element Name,Page,Find By,Value
+country,home,id,country
+languageBtn,home,id,translation-btn
+type,home,css,.plan-title
+price,home,css,.price
